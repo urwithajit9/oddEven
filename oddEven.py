@@ -15,5 +15,7 @@ result = check_odd_even(number)
 
 if result == "Even":
 	print("The given number is a Even number.")
+else:
+	print("Number is Odd")
 
 
